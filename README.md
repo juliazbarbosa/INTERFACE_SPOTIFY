@@ -4,9 +4,9 @@
 
 ## Demonstração
 
-![Preview do Projeto](.preview.png)
+![Preview do Projeto](preview.png)
 
-🔗 **Deploy ao vivo:** https://juliazbarbosa.github.io/INTERFACE_SPOTIFY
+🔗 **Deploy ao vivo:** https://juliazbarbosa.github.io/INTERFACE_SPOTIFY(https://juliazbarbosa.github.io/INTERFACE_SPOTIFY)
 
 ## Funcionalidades
 
